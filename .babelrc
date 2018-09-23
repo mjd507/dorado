@@ -1,0 +1,13 @@
+{
+    "presets": [
+        ["env",
+        {
+            "targets":
+            {
+                // The % refers to the global coverage of users from browserslist
+                "browsers": [">0.25%", "not ie 11", "not op_mini all"]
+            },
+            "modules": "umd" //是否将ES6的模块化语法转译成其他类型 //参数："amd" | "umd" | "systemjs" | "commonjs" | false，默认为'commonjs'
+        }]
+    ]
+}
