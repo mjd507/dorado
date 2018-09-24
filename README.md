@@ -1,5 +1,5 @@
 ## dorado
-
+[![Build Status](https://travis-ci.com/mjd507/dorado.svg?branch=master)](https://travis-ci.com/mjd507/dorado)    [![Coverage Status](https://coveralls.io/repos/github/mjd507/dorado/badge.svg)](https://coveralls.io/github/mjd507/dorado)
 
 ## Modules
 
